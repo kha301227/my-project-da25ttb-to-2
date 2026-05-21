@@ -1,0 +1,43 @@
+/*Mã nguồn css*/
+*{
+      margin:0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 13pt;
+      line-height: 2;
+     /*color:hs1(0, 18%, 91%); */
+	 color:Brown;
+}
+.container{
+	    margin: 0px 50px;
+}
+
+form#frmLogin{
+	background-color:pink;
+	padding:20px 50px;
+	max-width:500px;
+	width:100%;
+	margin:auto;
+}
+#title{
+	text-transform: uppercase; /*in hoa*/
+	text-align: center;
+}
+
+label {
+	display:block;
+	color: off-white;
+	font-weight:bolder;
+}
+.form-control{
+	width:100%;
+	margin: 4px 0px;
+}
+.button{
+	padding:2px;
+	width:100px;
+	background-color: off-white;
+	color:Brown;
+	border-radius:5px;
+}
+
